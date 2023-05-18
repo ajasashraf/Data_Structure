@@ -5,7 +5,7 @@ function linkedListToString(head) {
     while (currentNode !== null) {
       result += currentNode.value;
       if (currentNode.next !== null) {
-        result += ' -> ';
+        result += '  ';
       }
       currentNode = currentNode.next;
     }

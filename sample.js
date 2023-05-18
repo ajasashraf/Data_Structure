@@ -149,7 +149,7 @@ var animal = ["lion","tiger","cat","dog"];
 // animal.shift();
 //for deleting last element in an array
 // animal.pop();
-//for deleting any element in an array
+//for deleting any element in an array 
 // animal.splice(2,1);
 // document.write(animal);
 

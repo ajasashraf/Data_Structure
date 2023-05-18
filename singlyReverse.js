@@ -15,7 +15,7 @@ function reverseLinkedList(head){
     }
     return prev;
 }
-
+ 
 
 const node1 = new Node(1);
 const node2 = new Node(2);
